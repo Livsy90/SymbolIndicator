@@ -9,6 +9,7 @@ A lightweight and customizable loading indicator built with **SwiftUI’s new `S
 ## Overview
 
 [Demo](https://www.youtube.com/watch?v=hImoILm2mSg)
+
 [Article](https://livsycode.com/swiftui/custom-progress-indicator-with-swiftui-symbol-effects/)
 
 `SymbolIndicator` is a reusable SwiftUI component that provides a scalable, motion-aware loading indicator using SF Symbols and the new `SymbolEffect` APIs introduced in iOS 17 and refined in iOS 18.  
