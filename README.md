@@ -1,6 +1,6 @@
 # SymbolIndicator
 
-A lightweight and customizable loading indicator built with **SwiftUI’s new `SymbolEffect` API`**, designed for a clean and modern look using SF Symbols.
+A lightweight and customizable loading indicator built with **SwiftUI’s new `SymbolEffect` API**, designed for a clean and modern look using SF Symbols.
 
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-Compatible-blue)
 ![iOS](https://img.shields.io/badge/iOS-17+-lightgrey)
